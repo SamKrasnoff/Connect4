@@ -11,7 +11,7 @@ public class ConnectFour {
                 return true;
             }
         }
-        GameBoard[6][column] = color;
+        GameBoard[5][column] = color;
         return true;
     }
 
